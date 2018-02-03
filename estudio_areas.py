@@ -78,7 +78,7 @@ que consideres adecuado para el área: '''))
         area_total = (AO * C) + confort
         
         input('Presiona <Enter> para calcular')
-        print('El área total calculada es: \n')
+        print('El área total calculada para el espacio es: \n')
         area_total = str(area_total)
         print(area_total+' m2\n')
         input('Presiona <Enter> para continuar. ')
